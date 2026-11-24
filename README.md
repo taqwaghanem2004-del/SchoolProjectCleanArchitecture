@@ -1,3 +1,5 @@
+> Practice project built while following a Clean Architecture course, covering CQRS, JWT authentication, validation, logging and unit tests.
+
 # SchoolProjectInCleanArchitecture
 
 ## Description
